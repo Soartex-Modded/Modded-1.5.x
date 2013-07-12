@@ -23,8 +23,6 @@ heightcontrol.png
 intelligence.png
 invaders.png
 label.png
-liquidmanager.png
-liquidmanagerExtra.png
 mobdetector.png
 monopoly_0.png
 monopoly_1.png
@@ -38,7 +36,6 @@ recipe.png
 shooter.png
 states.png
 sweeper.png
-tank.png
 tetris.png
 tool.png
 trackgame.png

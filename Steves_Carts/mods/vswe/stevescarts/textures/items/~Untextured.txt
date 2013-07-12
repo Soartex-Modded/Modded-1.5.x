@@ -46,7 +46,6 @@ dynamite_icon.png
 egg_basket_icon.png
 empty_disk_icon.png
 enchanter_icon.png
-enhanced_galgadorian_metal_icon.png
 entity_analyzer_icon.png
 entity_detector_animal_icon.png
 entity_detector_bat_icon.png
@@ -68,7 +67,6 @@ fuse_icon.png
 galgadorian_drill_icon.png
 galgadorian_farmer_icon.png
 galgadorian_hull_icon.png
-galgadorian_metal_icon.png
 galgadorian_saw_blade_icon.png
 galgadorian_wheels_icon.png
 galgadorian_wood_cutter_icon.png
@@ -140,7 +138,6 @@ red_wrapping_paper_icon.png
 refined_handle_icon.png
 refined_hardener_icon.png
 reinforced_hull_icon.png
-reinforced_metal_icon.png
 reinforced_wheels_icon.png
 saw_blade_icon.png
 seat_icon.png
@@ -157,7 +154,6 @@ solar_panel_icon.png
 speed_handle_icon.png
 spruce_log_icon.png
 spruce_twig_icon.png
-stabilized_metal_icon.png
 standard_hull_icon.png
 steves_arcade_icon.png
 stolen_present_icon.png
