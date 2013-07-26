@@ -1,17 +1,5 @@
 air_sulfur.png
-apple_bark.png
-apple_bookshelf.png
-apple_heart.png
 apple_ladder.png
-apple_leaves_fancy.png
-apple_leaves_fast.png
-apple_leaves_flowering_fancy.png
-apple_leaves_flowering_fast.png
-apple_leaves_fruit_fancy.png
-apple_leaves_fruit_fast.png
-apple_leaves_gold_fancy.png
-apple_leaves_gold_fast.png
-apple_planks.png
 apple_sapling.png
 apple_trapdoor.png
 barley_1.png
@@ -170,6 +158,7 @@ ghostwood_trapdoor.png
 ghostwood_workbench_face.png
 ghostwood_workbench_side.png
 ghostwood_workbench_top.png
+grass_top.png
 hopseed_bark.png
 hopseed_bookshelf.png
 hopseed_door_bottom.png
@@ -222,7 +211,6 @@ raspberry_fancy.png
 raspberry_fast.png
 raspberry_ripe_fancy.png
 raspberry_ripe_fast.png
-redwood_bark.png
 redwood_bookshelf.png
 redwood_door_bottom.png
 redwood_door_top.png
