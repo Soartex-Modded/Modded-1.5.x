@@ -7,8 +7,6 @@ BlockInterfaceAlternateArrow.png
 BlockMEQlink.png
 BlockMatterCannonParticle.png
 BlockPowerRelay.png
-BlockPreformatter.png
-BlockPreformatterSide.png
 BlockQLink.png
 BlockQRingCorner.png
 BlockQRingCornerLight.png
