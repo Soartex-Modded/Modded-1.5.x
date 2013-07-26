@@ -20,10 +20,12 @@ MatCellHousing.png
 MatCluster.png
 MatConversionMatrix.png
 MatCrystal.png
+MatEnderPearlDust.png
 MatFlour.png
 MatFluxPearl.png
 MatIronNugget.png
 MatMicroSingularity.png
+MatQESingularity.png
 MatQuartzDustCertus.png
 MatQuartzDustFlux.png
 MatQuartzDustNether.png
