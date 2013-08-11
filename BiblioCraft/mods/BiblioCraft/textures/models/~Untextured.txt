@@ -1,7 +1,3 @@
-bookcase_empty1.png
-bookcase_empty2.png
-bookcase_empty3.png
-bookcase_empty4.png
 guitypebackg.png
 inkplate0.png
 inkplate1.png
