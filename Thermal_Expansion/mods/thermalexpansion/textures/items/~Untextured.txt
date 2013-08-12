@@ -8,7 +8,6 @@ BucketGlowstone.png
 BucketGlowstone.txt
 BucketRedstone.png
 BucketRedstone.txt
-LampFrame.png
 MachineFrame.png
 Multimeter.png
 NuggetCopper.png

@@ -1,3 +1,0 @@
-Machine_Active_Assembler.png
-Machine_Active_Assembler.txt
-Machine_Face_Assembler.png
