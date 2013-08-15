@@ -8,3 +8,7 @@
 *.DS_Store
 *.Thumbs.db
 ._*
+
+# Other thumbs
+
+Thumbs.db
