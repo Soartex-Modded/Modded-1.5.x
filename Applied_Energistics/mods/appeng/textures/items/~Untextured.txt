@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AdvProcessAsm
 AdvProcessor
 BasicProcessAsm
@@ -19,3 +20,6 @@ MatSegment
 MatSegment
 MatSilicon
 MatWirelessBoost
+=======
+MatQESingularity
+>>>>>>> Applied Energistics - Fixes/Backport
