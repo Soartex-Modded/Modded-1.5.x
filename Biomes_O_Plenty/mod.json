@@ -1,0 +1,16 @@
+{
+    "mod_name": "Biomes O' Plenty",
+    "mod_id": "BiomesOPlenty",
+    "mod_version": "0.5.9.3",
+    "mc_version": "1.5.2",
+    "mod_authors": [
+        "Adubbz",
+        "Amnet",
+        "ted80",
+        "Forstride"
+    ],
+    "url_website": "www.minecraftforum.net/topic/1495041-",
+    "description": "Adds 87 new, unique biomes!",
+    "mod_filename": "CustomNPCs_1.5.2.zip",
+    "mod_dir": "/Biomes_O_Plenty/"
+}

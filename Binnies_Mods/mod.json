@@ -1,0 +1,11 @@
+{
+    "mod_filename": "binnie-mods-1.7.5.jar",
+    "mod_name": "Binnies Mods",
+    "mod_id": "Binnies_Mods",
+    "url_website": "http://minecraft.curseforge.com/mc-mods/223525-binnies-mods",
+    "description": "Base mod for Binnie's Mods, with lots of common code.",
+    "mod_dir": "/Binnies_Mods/",
+    "mod_authors": [
+        "Binnie567"
+    ]
+}

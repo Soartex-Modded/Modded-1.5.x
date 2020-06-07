@@ -1,0 +1,12 @@
+{
+    "mod_name": "Applied Energistics",
+    "mod_id": "AppliedEnergistics",
+    "mod_version": "rv13.b",
+    "mc_version": "1.5.1",
+    "mod_authors": [
+        "AlgorithmX2"
+    ],
+    "url_website": "http://ae-mod.info/",
+    "description": "A Mod About energy, and matter. Oh wait thats everything...",
+    "mod_dir": "/Applied_Energistics/"
+}

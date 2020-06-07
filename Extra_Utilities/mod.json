@@ -1,0 +1,12 @@
+{
+    "mod_name": "Extra Utilities",
+    "mod_id": "ExtraUtilities",
+    "mod_version": "0.2.4g",
+    "mc_version": "1.5.2",
+    "mod_authors": [
+        "RWTema"
+    ],
+    "url_website": "",
+    "description": "Just a bunch of fairly useful things",
+    "mod_dir": "/Extra_Utilities/"
+}

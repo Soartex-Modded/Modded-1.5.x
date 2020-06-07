@@ -1,0 +1,12 @@
+{
+    "mod_name": "Andrew2448's Modular Powersuits Addon",
+    "mod_id": "PowersuitAddons",
+    "mod_version": "176",
+    "mc_version": "1.5.1",
+    "mod_authors": [
+        "Andrew2448"
+    ],
+    "url_website": "http://www.machinemuse.net/",
+    "description": "A mod which expands on Modular Powersuits' module options",
+    "mod_dir": "/Andrew2448s_Modular_Powersuits_Addon/"
+}
