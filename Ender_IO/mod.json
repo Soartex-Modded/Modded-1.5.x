@@ -1,0 +1,13 @@
+{
+    "mod_id": "EnderIO",
+    "mod_name": "Ender IO",
+    "mod_filename": "EnderIO-1.7.10-2.3.0.428_beta.jar",
+    "mc_version": "1.5.2",
+    "mod_authors": [
+        "crazypants"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/1937619-162152-ender-io-how-many-pipes-in-one-block-updated-198/",
+    "description": "Ender IO",
+    "mod_version": "0.3.6",
+    "mod_dir": "/Ender_IO/"
+}

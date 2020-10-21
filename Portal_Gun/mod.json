@@ -1,0 +1,11 @@
+{
+    "mod_name": "PortalGun",
+    "mod_id": "PortalGun",
+    "mod_version": "1.5.2",
+    "mod_authors": [
+        "iChun"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/199391-/",
+    "description": "Add the portal gun and many other portal elements into Minecraft.",
+    "mod_dir": "/Portal_Gun/"
+}
