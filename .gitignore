@@ -22,3 +22,9 @@ Icon
 # Layered Documents
 *.psd
 *.xcf
+
+# editors
+.idea/
+
+# placeholder textures
+__default_*

@@ -1,0 +1,12 @@
+{
+    "mod_name": "ComputerCraft",
+    "mod_id": "computercraft",
+    "mod_version": "1.53",
+    "mod_authors": [
+        "dan200",
+        "Cloudy"
+    ],
+    "url_website": "http://www.computercraft.info",
+    "description": "ComputerCraft adds Computers, Programming and Robotics to Minecraft.",
+    "mod_dir": "/ComputerCraft/"
+}

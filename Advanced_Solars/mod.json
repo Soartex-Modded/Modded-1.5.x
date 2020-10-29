@@ -1,0 +1,12 @@
+{
+    "mod_name": "Advanced Solar Panels",
+    "mod_id": "advancedsolarpanel",
+    "mod_version": "3.3.7",
+    "mc_version": "1.5.2",
+    "mod_authors": [
+        "SeNtiMeL, Icedfire"
+    ],
+    "url_website": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291",
+    "description": "Advanced solar panels is new generation of using solar power. This is addon for IndustrialCraft 2",
+    "mod_dir": "/Advanced_Solars/"
+}
