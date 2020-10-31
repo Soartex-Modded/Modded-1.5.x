@@ -7,7 +7,7 @@
         "Joseph 'Nuchaz' Sinclair"
     ],
     "url_website": "http://www.minecraftforum.net/topic/1680480-147forge-bibliocraft-v100-bookcases-armor-stands-shelves-and-more/#entry20796422",
-    "description": "Bookcases, armor stands, shelves and so much more!",
-    "mod_version": "1.3.3",
+    "description": "Adds support for Forestry woods to BiblioCraft blocks. Requires BiblioCraft to run.",
+    "mod_version": "1.0",
     "mod_dir": "/BiblioCraft/"
 }

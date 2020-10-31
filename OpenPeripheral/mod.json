@@ -1,0 +1,11 @@
+{
+    "mod_name": "OpenPeripheral",
+    "mod_id": "OpenPeripheral",
+    "mod_version": "0.1.11",
+    "mod_authors": [
+        "Mikeemoo"
+    ],
+    "url_website": "http://www.computercraft.info",
+    "description": "Converts many blocks into ComputerCraft peripherals!",
+    "mod_dir": "/OpenPeripheral/"
+}

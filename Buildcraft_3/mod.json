@@ -1,0 +1,14 @@
+{
+    "mod_id": "buildcraft",
+    "mod_name": "Buildcraft",
+    "mod_filename": "buildcraft-A-3.7.2.jar",
+    "mc_version": "",
+    "mod_authors": [
+        "SpaceToad",
+        "BuildCraft Team"
+    ],
+    "url_website": "http://www.mod-buildcraft.com/",
+    "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!",
+    "mod_version": "3.7.2 (35)",
+    "mod_dir": "/Buildcraft_3/"
+}

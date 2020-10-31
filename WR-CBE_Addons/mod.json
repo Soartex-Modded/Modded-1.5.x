@@ -1,0 +1,12 @@
+{
+    "mod_name": "WR-CBE Addons",
+    "mod_id": "WR-CBE|Addons",
+    "mod_version": "1.4",
+    "mc_version": "1.4.7",
+    "mod_authors": [
+        "ChickenBones"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/909223",
+    "description": "Various wireless gadgets to play with!",
+    "mod_dir": "/WR-CBE_Addons/"
+}
