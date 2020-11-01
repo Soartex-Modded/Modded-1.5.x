@@ -1,6 +1,6 @@
 {
     "mod_name": "OpenPeripheral",
-    "mod_id": "OpenPeripheral",
+    "mod_id": "openperipheral",
     "mod_version": "0.1.11",
     "mod_authors": [
         "Mikeemoo"
