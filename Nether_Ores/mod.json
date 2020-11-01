@@ -1,0 +1,14 @@
+{
+    "mod_name": "Nether Ores",
+    "mod_id": "netherores",
+    "mod_version": "2.1.5",
+    "mc_version": "1.5.1",
+    "mod_authors": [
+        "PowerCrystals",
+        "TehKrush",
+        "AtomicStryker"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/1629898-",
+    "description": "Introduces mineable yet dangerous ores to the Nether",
+    "mod_dir": "/Nether_Ores/"
+}

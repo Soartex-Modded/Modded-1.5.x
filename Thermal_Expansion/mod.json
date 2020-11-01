@@ -1,0 +1,15 @@
+{
+    "mod_name": "Thermal Expansion",
+    "mod_id": "thermalexpansion",
+    "mod_version": "2.4.6.0",
+    "mc_version": "1.5.2",
+    "mod_authors": [
+        "KingLemmingCoFH",
+        "Cynycal",
+        "ZeldoKavira"
+    ],
+    "url_website": "http://thermalexpansion.wikispaces.com",
+    "description": "Expanding Minecraft thermally - provides new options for automation and processing!",
+    "mod_filename": "ThermalExpansion-[1.7.10]4.1.5-248.jar",
+    "mod_dir": "/Thermal_Expansion/"
+}

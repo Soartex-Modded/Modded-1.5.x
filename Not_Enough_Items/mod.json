@@ -1,0 +1,13 @@
+{
+    "mod_id": "notenoughitems",
+    "mod_name": "Not Enough Items",
+    "mod_filename": "NEIIntegration-MC1.7.10-1.0.10.jar",
+    "mc_version": "1.4.7",
+    "mod_authors": [
+        "ChickenBones"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/909223",
+    "description": "Recipe Viewer, Inventory Manager, Item Spawner, Cheats and more",
+    "mod_version": "1.5.2.28",
+    "mod_dir": "/Not_Enough_Items/"
+}

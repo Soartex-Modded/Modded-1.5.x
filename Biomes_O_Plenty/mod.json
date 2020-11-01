@@ -1,0 +1,16 @@
+{
+    "mod_name": "Biomes O' Plenty",
+    "mod_id": "biomesoplenty",
+    "mod_version": "0.5.9.3",
+    "mc_version": "1.5.2",
+    "mod_authors": [
+        "Adubbz",
+        "Amnet",
+        "ted80",
+        "Forstride"
+    ],
+    "url_website": "www.minecraftforum.net/topic/1495041-",
+    "description": "Adds 87 new, unique biomes!",
+    "mod_filename": "BiomesOPlenty-1.7.10-2.1.0.1396-universal.jar",
+    "mod_dir": "/Biomes_O_Plenty/"
+}

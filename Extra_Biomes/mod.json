@@ -1,0 +1,17 @@
+{
+    "mod_id": "extrabiomesxl",
+    "mod_name": "ExtrabiomesXL",
+    "mod_filename": "ExtrabiomesXL-universal-1.5.2-3.13.4.jar",
+    "mc_version": "1.5.1",
+    "mod_authors": [
+        "ScottKillen",
+        "MisterFiber",
+        "ExterminatorJeff",
+        "TDWP_FTP",
+        "JLBShecky"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/1090288-",
+    "description": "ExtrabiomesXL is a mod for Minecraft which adds new biomes that enhance game play and make exploring fun and interesting.",
+    "mod_version": "3.13.4",
+    "mod_dir": "/Extra_Biomes/"
+}
